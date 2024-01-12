@@ -21,6 +21,7 @@ export function Post() {
             </header>
             <div className='styles.content'>
                 <p>Loren Ipsun dolor sit amet</p>
+                <a href="">Hi!</a>
             </div>
 
         </article>
